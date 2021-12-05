@@ -20,6 +20,5 @@
 		max-width: 180px;
 	}
 
-
 </style>
   
